@@ -4,6 +4,7 @@
   "description": "WebRTC experiments for Raspberyy Pi 2",
   "license": "MIT",
   "dependencies": {
-    "js-objectdetect": "mtschirs/js-objectdetect#master"
+    "js-objectdetect": "mtschirs/js-objectdetect#master",
+    "tracking": "tracking#1.x"
   }
 }

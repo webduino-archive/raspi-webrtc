@@ -1,0 +1,9 @@
+{
+  "name": "raspi-webrtc",
+  "version": "0.0.0",
+  "description": "WebRTC experiments for Raspberyy Pi 2",
+  "license": "MIT",
+  "dependencies": {
+    "js-objectdetect": "mtschirs/js-objectdetect#master"
+  }
+}

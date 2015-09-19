@@ -1,0 +1,30 @@
+{
+  "name": "js-objectdetect",
+  "homepage": "https://github.com/mtschirs/js-objectdetect",
+  "authors": [
+    "Martin Tschirsich (https://github.com/mtschirs)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mtschirs/js-objectdetect"
+  },
+  "description": "computer vision in your browser - javascript real-time object detection",
+  "main": "js/objectdetect.js",
+  "keywords": [
+    "computer vision",
+    "object detection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "_release": "55b5c16f5a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "55b5c16f5aa61c569d0d36e5ff43e0f190ec015f"
+  },
+  "_source": "git://github.com/mtschirs/js-objectdetect.git",
+  "_target": "master",
+  "_originalSource": "mtschirs/js-objectdetect"
+}
